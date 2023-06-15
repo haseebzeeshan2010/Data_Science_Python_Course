@@ -6,4 +6,7 @@ print(type(a)) # type of array
 
 print(a.dtype) # type of elements
 
-print(a.size)
+print(a.size) # size of array
+
+a[3:5] = 100,200 # changing multiple values within a range
+print(a)

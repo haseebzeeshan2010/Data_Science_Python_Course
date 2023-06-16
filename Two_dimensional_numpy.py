@@ -8,4 +8,4 @@ y = np.array(y)
 
 z = 2*y
 print(z)
-print(z.shape) #finding number of dimensions
+print(z.shape) #finding length of dimensions

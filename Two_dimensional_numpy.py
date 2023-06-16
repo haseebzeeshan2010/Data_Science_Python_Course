@@ -6,5 +6,5 @@ y = [[4,6,7,7],[3,4,6,10]]
 x = np.array(x)
 y = np.array(y)
 
-z = x+y
+z = 2*y
 print(z)
